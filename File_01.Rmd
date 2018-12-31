@@ -1,0 +1,15 @@
+---
+title: "File_01"
+author: "Sarah Elghazoly"
+date: "12/31/2018"
+output: html_document
+---
+
+#First File
+
+```{r}
+x <- c(1,2,3,4,5,6,7)
+y <- c(1,4,9,16,25, 36, 49)
+plot(y~x)
+```
+
